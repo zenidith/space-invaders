@@ -1,6 +1,6 @@
 This is Space Invaders game to practice my coding skills.
 
-You can see the project live [here]()
+You can see the project live [here](https://zenidith.github.io/space-invaders/)
 
 In this project I used the following functions: 
 
