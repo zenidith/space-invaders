@@ -1,6 +1,6 @@
 This is Space Invaders game to practice my coding skills.
 
-<img src="space.gif" alt="Space Invaders" width="800"/>
+<img src="images/space.gif" alt="Space Invaders" width="800"/>
 
 In this project I used the following functions: 
 
