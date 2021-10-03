@@ -32,18 +32,18 @@ p {
 
 .shooter {
     /* background-color: rgb(74, 74, 249); */
-    background-image: url('ship.png');
+    background-image: url('images/ship.png');
 }
 
 .invader {
     /* background-color: rgb(194, 33, 239); */
-    background-image: url('invader.png');
+    background-image: url('images/invader.png');
     border-radius: 10px;
 }
 
 .boom {
     /* background-color: rgb(191, 12, 12); */
-    background-image: url('exp1.png');
+    background-image: url('images/exp1.png');
 }
 
 .laser {
